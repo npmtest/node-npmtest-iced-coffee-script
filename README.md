@@ -1,6 +1,6 @@
 # npmtest-iced-coffee-script
 
-#### test coverage for  [iced-coffee-script (v108.0.11)](http://maxtaco.github.io/coffee-script)  [![npm package](https://img.shields.io/npm/v/npmtest-iced-coffee-script.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-iced-coffee-script) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-iced-coffee-script.svg)](https://travis-ci.org/npmtest/node-npmtest-iced-coffee-script)
+#### basic test coverage for  [iced-coffee-script (v108.0.11)](http://maxtaco.github.io/coffee-script)  [![npm package](https://img.shields.io/npm/v/npmtest-iced-coffee-script.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-iced-coffee-script) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-iced-coffee-script.svg)](https://travis-ci.org/npmtest/node-npmtest-iced-coffee-script)
 
 #### IcedCoffeeScript
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-iced-coffee-script/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-iced-coffee-script/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-iced-coffee-script/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-iced-coffee-script/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-iced-coffee-script/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-iced-coffee-script/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-iced-coffee-script/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-iced-coffee-script/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-iced-coffee-script/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-iced-coffee-script/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-iced-coffee-script/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-iced-coffee-script/build/coverage.html/index.html)
 

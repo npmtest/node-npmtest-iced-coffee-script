@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### test coverage for  [iced-coffee-script (v108.0.11)](http://maxtaco.github.io/coffee-script)  [![npm package](https://img.shields.io/npm/v/npmtest-iced-coffee-script.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-iced-coffee-script) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-iced-coffee-script.svg)](https://travis-ci.org/npmtest/node-npmtest-iced-coffee-script)",
+    "description": "#### basic test coverage for  [iced-coffee-script (v108.0.11)](http://maxtaco.github.io/coffee-script)  [![npm package](https://img.shields.io/npm/v/npmtest-iced-coffee-script.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-iced-coffee-script) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-iced-coffee-script.svg)](https://travis-ci.org/npmtest/node-npmtest-iced-coffee-script)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "iced-coffee-script": "*",
@@ -36,5 +36,5 @@
         "start": "PORT=${PORT:-8080} utility2 start test.js",
         "test": "(set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)"
     },
-    "version": "0.0.1"
+    "version": "2017.4.25"
 }
